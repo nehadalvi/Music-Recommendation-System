@@ -1,0 +1,1000 @@
+1	The Great Kat
+2	Lawrence The Kat
+3	Kataklysm
+4	Peter Kater
+5	Kathy
+6	Katia
+7	Katie's Dimples
+8	Boy Katindig
+9	Katjuscha
+10	Katmandu
+11	Michael Katon
+12	Katrina & The Waves
+13	Jeanette Katt
+14	Katydids
+15	Bruce Katz Band
+16	Dick Katz
+17	Mickey Katz
+18	Suzi Katz
+19	Emilio Kauderer
+20	Jorma Kaukonen
+21	Bill Kaulaity
+22	Andy Kaulkin
+23	Singh Kaur/Kim Robertson
+24	Kauriga Ukrainian Ensemble
+25	Kausion
+26	Ron Kavana
+27	Alias Ron Kavana
+28	Patrick Kavanaugh
+29	Kavkasia
+30	George Kawaguchi Big Band
+31	Kawai Cockett
+32	Kawaiola
+33	Ryo Kawasaki
+34	Masashi Kawasome
+35	Kawazome
+36	Kawz
+37	John Kay
+38	Kayak
+39	Carol Kaye
+40	Danny Kaye
+41	Judy Kaye/Sharpe/Blier
+42	Sammy Kaye
+43	Thomas Jefferson Kaye
+44	Cecile Kayirebwa
+45	Lainie Kazan
+46	Michael Villmow's KBB
+47	The KBC Band
+48	KC & The Sunshine Band/...
+49	KC & The Sunshine Band
+50	KCM
+51	Ke
+52	Ke`alohi
+53	Cheri Keaggy
+54	Phil Keaggy
+55	Moe Keale
+56	Nina Keali`iwahamana/Ohta...
+57	Bob Keane & His Orchestra
+58	Brian Keane
+59	Dolores Keane
+60	James Keane
+61	Peter Keane
+62	Rita Keane/Sarah Keane
+63	Sean Keane
+64	Tommy Keane
+65	Kerry Kearney
+66	J. Michael Kearsey
+67	Matt Keating
+68	Vicky Pratt Keating
+69	Keats
+70	Genoa Keawe/Gary Aiko/Sam Aiko
+71	Joe Keawe
+72	John Keawe
+73	Karen Keawehawai'i
+74	Keb' Mo'
+75	Rinsh Kedekaru
+76	John P. Kee
+77	Stanley Keeble
+78	Keedy
+79	Keel
+80	Howard Keel
+81	Lewis Keel
+82	James Keelaghan
+83	Robert Earl Keen
+84	Speedy Keen
+85	Paddy Keenan
+86	Tommy Keene
+87	Verrill Keene
+88	Geoff Keezer
+89	Kei-Te Singers
+90	Garrison Keillor/Hopeful Gospe
+91	Katell Keineg
+92	The Keiser Twins
+93	Stanley Thomas Keiser
+94	Salif Keita
+95	Keith & Carmen Haugen
+96	Ben Keith
+97	Bill Keith
+98	Catfish Keith
+99	Kool Keith
+100	Lisa Keith
+101	Rodd Keith
+102	Kik Tracee
+103	Dave Kikoski
+104	Masabumi Kikuchi/Peacock/...
+105	Masabumi "Poo" Kikuchi
+106	Kikwabanga
+107	Kilauea
+108	Steve Kilbey
+109	Pat Kilbride
+110	Kilfenora Ceili Band
+111	Kilgore Smudge
+112	David Kilgour
+113	Kilimanjaro
+114	Kilimanjaro Blues Band
+115	Kilkenny Kats
+116	Kill Creek
+117	Kill For Thrills
+118	Kill Kill
+119	Kill Switch...Klick
+120	Kill Sybil
+121	Bass Killa
+122	Killafornia Organization
+123	Ghostface Killah
+124	Killarmy
+125	Killawajachi
+126	Killbilly
+127	Killdozer
+128	Lou Killen
+129	Killer
+130	Killer Bees
+131	Killer Dwarfs
+132	Max Weinberg
+133	Killer Pussy
+134	Killer Ranks
+135	Killer Shrews
+136	Killers
+137	Killing Floor
+138	Killing Joke
+139	Killing Time
+140	Killingculture
+141	Kilo
+142	Kilolo
+143	Tom Kilpatrick
+144	Kiltartan Road
+145	John Kilzer
+146	Jin Hi Kim
+147	Lil' Kim
+148	Kimara
+149	Euis Kimariah/Jugala Orchestra
+150	Bobby Kimball
+151	Frank Kimbrough Trio
+152	Junior Kimbrough
+153	Royal Wade Kimes
+154	Dick Kimmel
+155	Tom Kimmel
+156	Junko Kimura
+157	Shoukichi Kina
+158	Kinder Atom
+159	Bob Kindler
+160	Steve Kindler
+161	The Kindness Of Strangers
+162	Kindred
+163	Kindred Spirit
+164	Bob Kindred Jazz Quartet
+165	Kinetic Dissent
+166	Kinfolk
+167	King
+168	King & Moore
+169	King Africa
+170	King Apparatus
+171	King Baptist Church Mass Choir
+172	King Biscuit Boy
+173	King Biscuit Boys/Horton
+174	King Black Acid
+175	King Carcass
+176	King Chango
+177	King Clave
+178	King Crimson
+179	King Diamond
+180	King Errisson
+181	King Felix
+182	King George
+183	King Harvest
+184	King Ivory
+185	King James
+186	King Jammy
+187	King Just
+188	King Kobra
+189	King Kong
+190	King Konga
+191	King Krab
+192	King Kurt
+193	King Missile
+194	King Of Fools
+195	King Of Kings
+196	King Of The Slums
+197	King Pleasure
+198	The King Sisters
+199	King Snake Roost
+200	King Sour
+201	King Sun
+202	King Swamp
+203	King Tee
+204	King Tubby
+205	The King's Singers
+206	King's X
+207	Albert King
+208	B.B. King
+209	Ben E. King
+210	Ben Tavera King
+211	Bill King
+212	Bob King
+213	Bobby King/Terry Evans
+214	Carl King
+215	Carole King
+216	Charlie King
+217	Claude King
+218	Dee Dee King
+219	Diana King
+220	Earl King
+221	Evelyn "Champagne" King
+222	Freddie King
+223	James King
+224	Jigsy King
+225	John King
+226	Jonathan King
+227	Jonny King
+228	Martin Luther King, Jr.
+229	Little Freddie King
+230	Little Jimmy King/Memphis Soul
+231	Mark King
+232	Morgana King
+233	Paul King
+234	Pee Wee King
+235	Shirley King
+236	Teddi King
+237	Wayne King
+238	Wes King
+239	King/Christofferson
+240	The Kingbees
+241	Kingbird Singers
+242	Kingdom
+243	Kingdom Come
+244	The Kingdom Heirs
+245	Kingfish
+246	Kinghorse
+247	Kingmaker
+248	Kingofthehill
+249	Kingpin Skinny Pimp
+250	Kings Gaillard
+251	Kings Of Swing
+252	Kings Of The Sun
+253	Peter Kingsberry
+254	The Kingsmen
+255	The Kingsnakes
+256	The Kingston Trio
+257	Sam Kinison
+258	The Kinks
+259	Kinky Machine
+260	Kee Kinlechene/Yatza
+261	Alison Kinnaird
+262	Kinnection
+263	Kevn Kinney
+264	Kino
+265	Kinrawk
+266	Kinross & District Pipe Band
+267	The Kinsey Report
+268	Big Daddy Kinsey & Sons
+269	Tsuruta Kinshi
+270	Kiowa 49
+271	Kiowa Black-Leg Warriors...
+272	Kiowa War Dance Society
+273	Kipapa Rush Band
+274	Rick Kipker
+275	The Kipper Family
+276	Kips Bay
+277	Kips Bay Ceili Band
+278	John Kirby
+279	Scott Kirby
+280	Bill Kirchen
+281	Kirk
+282	Andy Kirk
+283	Deanna Kirk
+284	Jeff Kirk & Friends
+285	Mark Kirk Jazz Quartet
+286	Rahsaan Roland Kirk
+287	Richard H. Kirk
+288	Richard H. Kirk/Peter Hope
+289	Eddie "Blues Man" Kirkland
+290	Kenny Kirkland
+291	Bob Kirkpatrick
+292	John Kirkpatrick
+293	Tony Kishman
+294	Ryan Kisor
+295	Kiss
+296	Kiss My Jazz
+297	Kiss Of The Gypsy
+298	Kiss The Sky
+299	Erno Kallai Kiss & Gypsy Band
+300	Kissyfur
+301	Kit & Coco
+302	Osamu Kitajima
+303	Eiji Kitamura
+304	Kitaro
+305	Terry Kitchen
+306	Kitchens Of Distinction
+307	Eartha Kitt
+308	Kitten
+309	Kittin
+310	Kittywinder
+311	Kiwi Dreams Featuring...
+312	Kix
+313	Klaatu
+314	Klagetoh Maiden Singers
+315	The Klagetoh Swingers
+316	The Klang
+317	Klange
+318	Klase Aparte
+319	Gunther Klatt/Aki Takase
+320	Klaudia & Rico
+321	The Klaxons
+322	Kleenex Girl Wonder
+323	Ann Klein
+324	Mindia Devi Klein
+325	Oscar Klein European All Stars
+326	Phil Klein
+327	Randy Klein
+328	Robert Klein
+329	John Klemmer
+330	Kleo
+331	The Klezmatics
+332	Klezmer Conservatory Band
+333	Klezmer Orchestra
+334	The Klezmorim
+335	The KLF
+336	Joey Kline
+337	Kevin Kline
+338	Michael Kline & The Gypsys
+339	Kevin Kling
+340	Klinik
+341	Klockwerk
+342	Dick "The Klompster" Klomp
+343	Sy Klopps Blues Band
+344	Eric Kloss/The Rhythm Section
+345	Klover
+346	Guy Klucevsek
+347	Jorg Kluetgens
+348	Earl Klugh
+349	Kluster
+350	Klute
+351	Klymaxx
+352	KMC
+353	KMFDM
+354	KMSM
+355	The Knack
+356	Jim Knapp Orchestra
+357	Knapsack
+358	Larry Knechtel
+359	Jimmy Knepper Sextet
+360	Vreni Kneubuhl
+361	John Knifechief
+362	Boogie Knight
+363	Cheri Knight
+364	Frederick Knight
+365	Gladys Knight
+366	Holly Knight
+367	Jean Knight
+368	Jeff Knight
+369	Peter Knight
+370	Robert Knight
+371	The Knitters
+372	Mark Knobel/Mike Gerber
+373	Knobs
+374	Knock-Out Drops
+375	Knockout
+376	David Knopfler
+377	Mark Knopfler
+378	Mike Knott
+379	Knowledge Is Power
+380	Chris Knox
+381	Gary Knox
+382	Johnny "Guitar" Knox
+383	KNS
+384	Knuckleheads
+385	Frankie Knuckles
+386	Jonas Knutsson Band
+387	Ko`olau
+388	Daniel Kobialka
+389	Kocani Orkestar
+390	Bernward Koch
+391	Hans Koch/Schutz/Kappeli
+392	James Kochalka Superstar
+393	Kenan Kockaya
+394	Cub Koda & The Houserockers
+395	Kode IV
+396	Kodo
+397	Bryan Koenig/Standback...
+398	Koerner, Ray & Glover
+399	Spider John Koerner
+400	Moe Koffman Quartet
+401	Koinonia
+402	Habib Koite & Bamada
+403	Sourakata Koite/Diombo Kouyate
+404	Eero Koivistoinen
+405	Kokane
+406	Walt Koken
+407	Hiroko Kokubu
+408	Kol Aviv Ensemble
+409	Kol Simcha
+410	Steve Kolander
+411	Martin Kolbe
+412	Nelson Kole
+413	Ronnie Kole
+414	Kolibri
+415	Kolinda
+416	Kolitas
+417	Fred Koller
+418	Jeff Kollman
+419	Michael Kolmstetter
+420	Bonnie Koloc
+421	Kolorz
+422	Euis Komariah/Yus Wiradiredja
+423	Komeda
+424	Ron Komie
+425	Komike & Wilde
+426	Kommunity FK
+427	Kon Kan
+428	Bobby Konders & Massive Sounds
+429	Toshinori Kondo/Tristan Honsin
+430	Thomas Koner
+431	Organized Konfusion
+432	Kong
+433	Klaus Konig
+434	Lee Konitz
+435	Kealoha Kono & His Orchestra
+436	Alhaji Bai Konte
+437	Dembo Konte/Kausa Kuyateh
+438	Lamine Konte Ensemble
+439	Kontrol
+440	KooKoon
+441	Kool & The Gang
+442	Kool Ace
+443	Kool G. Rap
+444	Kool Moe Dee
+445	Kool Rock J & The DJ Slice
+446	Kool Skool
+447	Silvard Kool
+448	Koomsa Tribal Singers
+449	Koono/Kitty Winter
+450	Al Kooper
+451	Koorunba
+452	Peter Koppes
+453	Kristin Korb
+454	Ron Korb/Donald Quan
+455	Koritas Musical
+456	Kormoran
+457	Korn
+458	Alexis Korner
+459	Erich Wolfgang Korngold
+460	Kornog
+461	Kory D.
+462	Kenny Kosek
+463	Kathy Kosins
+464	Kosming
+465	Patrick Kosmos
+466	Paul Kossoff
+467	Kostars
+468	Kostas
+469	Andre Kostelanetz
+470	Kostia
+471	Ozzie Kotani
+472	Kotch
+473	Koto Ensemble Of Ikuta School
+474	Kotoja
+475	Leo Kottke
+476	Richie Kotzen
+477	Nan Kouan
+478	Koun
+479	Kousokuya
+480	Djimo Kouyate
+481	El Hadj Djeli Sory Kouyate
+482	Ousmane Kouyate Band
+483	Soungue Kouyate
+484	Tata Bambo Kouyate
+485	Kov Aviv Ensemble
+486	Win Kowa
+487	Steve Kowalczyk
+488	Michael Kowalski
+489	Chris Kowanko
+490	Koxbox
+491	Luke Koyle
+492	Dave Koz
+493	Krachy, Fite & Dirke
+494	Robert Kraft
+495	Kraftwelt
+496	Kraftwerk
+497	Krakatau
+498	David Krakauer & The...
+499	Irene Kral
+500	Diana Krall
+501	Kramer
+502	Wayne Kramer
+503	Krank
+504	Wayne Krantz
+505	Krash Man
+506	Jeff Krassner
+507	Paul Krassner
+508	Alfredo Kraus
+509	Peter Kraus
+510	Bernie Krause
+511	Dagmar Krause
+512	Erlend Krauser
+513	Alison Krauss
+514	Briggan Krauss
+515	Kraut
+516	Phil Krauth
+517	Lenny Kravitz
+518	Kreator
+519	Pete Krebs
+520	Esther Kreek/Charlie Pinzino
+521	Scott Kreitzer
+522	Tim Krekel
+523	Gerard Kremer
+524	Gidon Kremer
+525	Celeste Krenz
+526	Carl Kress/George Barnes
+527	Cornelius Claudio Kreusch
+528	Krewmen
+529	Volker Kriegel
+530	Robby Krieger
+531	Brian Krinek
+532	Scott Krippayne
+533	Kris Kross
+534	Ramnad Krishnan
+535	T.N. Krishnan
+536	Fritz Krisse
+537	Jan Krist
+538	Dale Kristien
+539	Kris Kristofferson
+540	Kriteos & Romiosini
+541	Ernie Krivda/Bill Dobbins
+542	Kriyananda
+543	Karin Krog
+544	Krokus
+545	Greg Kroll
+546	Michael Kroll
+547	Kronic
+548	Kroonenberg
+549	Krown Rulers
+550	KRS-One
+551	Krucked M-Age
+552	Kruder & Dorfmeister
+553	Krunchjam
+554	Gene Krupa
+555	John Kruth
+556	The Kry
+557	Kryptonite Nixon
+558	Kryst The Conqueror
+559	Marty Krystall Spatial Quartet
+560	Krystol
+561	Ksquad
+562	KTP
+563	Ron Kuala`au
+564	Ali Hassan Kuban
+565	Smokin' Joe Kubek
+566	Tom Kubis Big Band
+567	Kublai Khan
+568	Toshi Kubota
+569	Tim Kucij
+570	Ed Kuepper
+571	Kris Kuester
+572	Joachim Kuhn
+573	Josie Kuhn
+574	Judy Kuhn
+575	Rolf Kuhn
+576	Steve Kuhn
+577	Steve Kujala
+578	Stefan Kukurugya
+579	Kukuruza
+580	Kula Shaker
+581	Kulcha Don
+582	Umm Kulthum
+583	Pramod Kumar
+584	Kumasi Trio
+585	Kuuipo Kumukahi
+586	Toure Kunda
+587	Madala Kunene
+588	Charlie Kunz
+589	Erich Kunz
+590	Kurt Kunzat
+591	Erich Kunzel
+592	George Kuo
+593	Tuli Kupferberg
+594	Joe Kurasz
+595	Illya Kuriaki
+596	Kurious
+597	Makoto Kuriya
+598	Stephan Kurmann Strings
+599	Detty Kurnia
+600	Illya Kuryaki & The...
+601	Kustbandet/Carol Leigh
+602	Kustomized
+603	Kut Klose
+604	Kutaisi Ensemble
+605	Diane Wilson Kutcher &...
+606	Femi Kuti
+607	Jonas Kvarnstrom/Schramm
+608	Kwame
+609	Leonard Kwan
+610	Jim Kweskin
+611	The Loved Ones
+612	Loveland
+613	Patty Loveless
+614	The Lovemasters
+615	The Lovemongers
+616	The Lover Speaks
+617	Bret Lover
+618	Loverboy
+619	Lovesliescrushing
+620	Lyle Lovett
+621	Lene Lovich
+622	Low
+623	The Low & Sweet Orchestra
+624	Low Max
+625	Low Pop Suicide
+626	Low Profile/DJ Aladdin
+627	The Low Road
+628	Allen Lowe & The American...
+629	Frank Lowe
+630	Jez Lowe & The Bad Pennies
+631	Mundell Lowe Quartet
+632	Nick Lowe
+633	Lowen & Navarro
+634	Lowercase
+635	The Ian Lowery Group
+636	Robert Lowery
+637	Lowlife
+638	Annette Lowman
+639	Mark Lowry
+640	Kenn Lowy
+641	Marcos Loya
+642	Loyal Opposition
+643	Boy Lozano
+644	Loznitsa
+645	LTG Exchange
+646	Luba
+647	Romero Lubambo/Weber Drummond
+648	Jeremy Lubbock
+649	Norman Luboff
+650	Lubricated Goat
+651	Damian Luca
+652	Bert Lucarelli
+653	Lucas
+654	Gary Lucas
+655	Robert Lucas
+656	Papo Lucca
+657	Lucerito
+658	Lucero
+659	Larry Luchowski Quartet
+660	Susie Luchsinger
+661	Santa Lucia
+662	Luciana
+663	Luciano
+664	Joe Luciano
+665	Jon Lucien
+666	Lucille
+667	Lucky
+668	The Lucky Charms
+669	Lucky Four
+670	Lucky Me
+671	Lucky Seven
+672	The Lucky Strikes
+673	The Lucy Show
+674	Lucy's Fur Coat
+675	Ludichrist
+676	Juliana Luecking
+677	Memo Lugo
+678	Roberto Lugo
+679	Eric Lugosch
+680	Luis Y Javier
+681	Luis Y Julian
+682	Jorge Luis
+683	Ricky Luis
+684	Nonato Luiz/Correa/Alves
+685	Tony Lujan
+686	Luke
+687	Rebecca Luker
+688	Lukie D/Papa Yaie
+689	Lulabox
+690	Lull
+691	Lullaby For The Working Class
+692	Lulu
+693	Bob Luman
+694	Luminous
+695	Lumukanda
+696	The Lumzy Sisters
+697	Luna [New Age]
+698	Luna
+699	Luna 2
+700	Luna Fria
+701	Wasted Away
+702	Amy Myles
+703	Val Goes to Israel
+704	Gunter Kaiser
+705	Gold Tooth Reserve
+706	Tray K-Uncle Moon
+707	Sami Abadi
+708	Eugene Brosnan
+709	Marc Hartman w/ Gerald Menke
+710	Mark Yodice
+711	Darian Cunning
+712	Underground Society
+713	Time of Orchids
+714	Slow Motion Lies
+715	Boss Gremlin
+716	Zooloft
+717	Loopchoir
+718	Secret Cervix
+719	Sick Fill
+720	Roarfiend
+721	UFO Mothership
+722	Cinema Fantastic
+723	The Willingtons
+724	Sirenswaif
+725	Doodle Bug
+726	Voices of Reason
+727	Soulcracker Psydecar
+728	The Wide Band
+729	Three Hits Max
+730	New Found Glance
+731	Viva Santana
+732	Acid 9
+733	The Dropsies
+734	Clarence Dobbins Revue
+735	The Beaters
+736	Dylan Blake Band
+737	Live @ 11
+738	Nojo On The Rojo
+739	High Profile
+740	Something Crystal
+741	Repeaters
+742	Aric Michael Burquist Band
+743	Big John & 39th Street Band
+744	Mega Blues Jam
+745	Battle of the Saxes
+746	Kid Java
+747	Rockin' Jane
+748	Anthony Kane
+749	Greg Hobbs
+750	Ari Spectre
+751	Odic Force
+752	Divinity
+753	La Jorga Protesta
+754	I Decline
+755	The Ill Type
+756	Super Butter Dog
+757	Silver Ginger Five
+758	Ego-Wrappin'
+759	Yoichi Aoyama
+760	Rashinban
+761	My Eye
+762	Garden Of The Worm
+763	Slacdeal
+764	King Reno
+765	Noa & Gil Dor
+766	The Soft Rocks
+767	DJ Hide
+768	Hugh Masekela & Sibongile Khumalo
+769	Lydia McCauley
+770	Eileen McGann
+771	James Mee
+772	Miamon Miller & Fred Sokolow
+773	Missing Person Soup Kitchen Gospel Quartet
+774	Jon Mosey
+775	Robert Mouland
+776	Peach's Little Band
+777	James "Sparky" Rucker
+778	Samite Of Uganda
+779	Tracy Schwarz & Ginny Hawker
+780	Scottish Christmas
+781	Short Crick Flatpickers
+782	Sidesaddle & County
+783	Jeff Talmadge
+784	UnityGroup
+785	Dave Webber & Anni Fentiman
+786	Doug Allen Wilcox
+787	The WindLasses
+788	WPHS Bluegrass Band
+789	Tarantella
+790	Brighton
+791	Los Boleros
+792	All The Way Down
+793	Cameron & His Hula Hoop
+794	Chris Muir
+795	Karl Perazzo
+796	Cor Meibion De Cymru
+797	The Earth Program
+798	Herschel Gaer
+799	Christian Smith
+800	Scanty Sandwich
+801	North End Jazz Ensemble
+802	69 South
+803	Rub-A-Dub
+804	Waterhouse
+805	Freddy Be
+806	Kevin Kazel
+807	DJ Sebastian
+808	Dog Byte
+809	The Ageless Sea Men
+810	The Crawlin' Low Band
+811	Wayne Clark Warren
+812	Maureen Budway
+813	Sifu Minestra
+814	Dog Is A Poet
+815	The Jellyroll Bakers
+816	Soma Mestizo
+817	Boston Brand
+818	Gonesh Cones
+819	Music In The Mountains
+820	Two By Four
+821	Sarah Wood
+822	Sarah Palmer
+823	Jennifer Paul
+824	Dennis Koster
+825	Ebb 'N' Flow
+826	Terry Lee Poole
+827	Colander
+828	Slimy Nuggetz
+829	The Anomolators
+830	40 Flee
+831	Palookaville
+832	That Guy
+833	Fordirelifesake
+834	Michael Night
+835	Blinded By A Book Of Fiction
+836	Tom Swift
+837	Takeout
+838	Still No Sign
+839	Novotono
+840	Spank Happy
+841	Back Drop Bomb
+842	No End Why
+843	Punk Rock DJ Hikaru
+844	Cat Fighterz
+845	Squashed Cubs
+846	Aburadaco
+847	DMBQ
+848	Emmy Hennings
+849	May/June
+850	Kid Brother Collective
+851	If One Should Fall
+852	Tomorrow Feels Like Sunday
+853	Least Of These
+854	Scathe
+855	Technicum
+856	Broken Foundation
+857	Get Down Device
+858	Death By Bobcat
+859	James Stephen
+860	Soapbox Champion
+861	Scafull King
+862	Wilberry
+863	Super Soul Sonics
+864	RAM JET ROOKIES
+865	Workshy
+866	Labcry
+867	Dry & Heavy
+868	Surfers of Romatica
+869	Shazna
+870	Young Punch
+871	Mr. Orange
+872	Kojima
+873	Photo Flash
+874	Far From Blue
+875	Brian M. Roff
+876	Fun Metal Gray
+877	Very Special Forces
+878	Patridge Family
+879	Carter Brown
+880	Vulgarians
+881	Project Grimm
+882	Peen Beats
+883	Rosemary Asylum
+884	Max Powers
+885	The New Testaments
+886	Away From The Wreck
+887	Reno Style
+888	First Earth
+889	Special Ed Class
+890	5 X Fast
+891	Exit 180
+892	Next Episode
+893	The Superdorks
+894	Last Day Off
+895	Under Investigation
+896	Headup
+897	Brokaw-Kadane & kadane
+898	Will Branch
+899	Les Lokey
+900	Swing Tones
+901	Four Second Fuse
+902	Black Sunshine
+903	Nick Clayson
+904	Paul Roub
+905	Tim Lamb
+906	Larisa Stow
+907	Fallen Rock
+908	Adonis Rose Quartet
+909	Michael White & The Original Liberty Jazz Band
+910	Brent Rose Trio
+911	Night Crawlers
+912	Topsy Chapman Quartet
+913	Teddy Ludwig Trio
+914	Jonathan Frelich Quartet
+915	Ricardo Crespo
+916	Superslugfest
+917	Mac Truck
+918	Black Strip Sonic
+919	Candytrip
+920	Joe Sharino Band
+921	Dirty Butter Jug Band
+922	Michael O'Conner
+923	DJ Mark Flynn
+924	DJ Kris Defixio
+925	Paul Nickerson
+926	Nat Simpkins & The B-3 Trio
+927	Kenny Clark Organ Trio
+928	Ray Corvair Organ Combo
+929	3 Way Street
+930	Billy Talent
+931	Celestina
+932	DJ Joe
+933	Jason Collett
+934	Hey Stella
+935	Petunia
+936	DJ Swing
+937	DJ Jose
+938	Loudest Whisper
+939	Ian Helmer
+940	Domini Canes
+941	The Ole Codgers
+942	Rico Bell & The Snakecharmers
+943	Samedi Pour Rire
+944	Crampe En Masse
+945	Claude Landre
+946	Mascarade
+947	Annie Golden
+948	Compulsive Behavior
+949	Get It Together!
+950	Deep Throats
+951	Little Jewford
+952	Heroes Welcome
+953	Mean Suns
+954	Eleven 54
+955	DJ Willie
+956	DJ Gibril
+957	Casual Blue
+958	Christ-A-Go-Go
+959	Jai Agnish
+960	Modern Synthetic
+961	Steve Soto & Greg Antista
+962	Copouts
+963	ZTW
+964	B-Town
+965	Blue Suede
+966	Mental Buru
+967	Destry Blues
+968	Running Erin
+969	Two, Three, Four
+970	Texicalis
+971	Paul Reider
+972	Midnight Rapture
+973	The Grey Electric
+974	For Wishes
+975	The Original Brothers & Sisters Of Love
+976	Steppin' In It
+977	The Bitter Pills
+978	45 Cents
+979	The Quivers
+980	Juno Veridian
+981	With Vibe
+982	Red Room
+983	Phryme #'Z
+984	Total Disregard
+985	Deity Muzzle
+986	Subterraneous
+987	Jack Sheldon Big Band
+988	Kenny Burrell Quartet
+989	Gretchen Parlato & Trio
+990	Tim Davis Big Band
+991	George Kahn & Party Of Five
+992	Dave Trippy
+993	DJ Jabberrock
+994	Daniel Morito Koga Katz And The Queer Asian American Ensemble
+995	Robert Frith
+996	Ted Roddy's Gracelin' Revue
+997	Shaun Young's New Blue Moon Boys
+998	Matt Putnam
+999	Tom Clifford
+1000	Bobby Earl Smith
